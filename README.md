@@ -1,8 +1,11 @@
 # CoolQErrorDetector
 及其简易的酷Q运行状态监测器
 
+# 依赖
+本脚本只依赖于Python内置库
+
 # 如何使用
-1. 安装Python 3
+1. 安装[Python 3](https://www.python.org/downloads/)(推荐至少Python3.5)
 2. 修改main.py前面配置部分中的qq以及邮件信息(需要SMTP服务器，可以自己搭建或者使用QQ邮件等)
 3. 将main.py放于含有CQA/CQP.exe的文件夹, 使用python3运行脚本
 4. 大功告成! 你会在酷Q掉线/被冻结的时候收到邮件通知
