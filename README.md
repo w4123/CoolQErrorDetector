@@ -1,5 +1,5 @@
 # CoolQErrorDetector
-及其简易的酷Q运行状态监测器
+极其简易的酷Q运行状态监测器
 
 # 依赖
 本脚本只依赖于Python内置库
